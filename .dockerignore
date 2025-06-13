@@ -2,3 +2,5 @@ node_modules
 .git
 tests
 *.log
+Dockerfile/
+.github/
